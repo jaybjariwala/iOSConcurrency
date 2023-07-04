@@ -1,26 +1,26 @@
 [
    {
-      "id": 0,
+      "id": "0",
       "name":"Usal Poha",
       "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/an04puiprh5g0bd2hdkq"
    },
    {
-      "id": 1,
+      "id": "1",
       "name":"Soya Chaap",
       "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/f6kqpmaoy0h3ijeuqccp"
    },
    {
-      "id": 2,
+      "id": "2",
       "name":"Manchuriyan",
       "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/wmo1ymshjubygwxuv517"
    },
    {
-      "id": 3,
+      "id": "3",
       "name":"Paratha",
       "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/oecyzqehfysmfzczqeov"
    },
    {
-      "id": 4,
+      "id": "4",
       "name":"Pav Bhaji",
       "image":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/kyilspirp3xhiyh5e8lj"
    }
